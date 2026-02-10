@@ -21,47 +21,10 @@ Python • SQL • Statistics • Systems Thinking
 
 ## 🛠 Skills & Toolset
 
-### 🧑‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,r" />
-</p>
-
-- Python (primary)
-- SQL
-- R (learning)
-
----
-
-### 📊 Data & Analysis
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Statistics & probability foundations  
-- Exploratory data analysis (beginner)  
-- Starting Pandas-based workflows  
-
----
-
-### 🛠 Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,replit" />
-</p>
-
-- Git & GitHub  
-- VS Code, PyCharm  
-- Jupyter Notebooks  
-- Replit  
-
----
-
-### ☁️ Cloud & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux" />
-</p>
-
-- AWS (foundational certification track)  
-- Linux / command line basics  
+| 🧑‍💻 Languages | 📊 Data & Analysis | 🛠 Dev Tools | ☁️ Cloud & Platforms |
+|--------------|------------------|------------|---------------------|
+| <img src="https://skillicons.dev/icons?i=python,mysql,r" /> | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,replit" /> | <img src="https://skillicons.dev/icons?i=aws,linux" /> |
+| Python (primary)<br>SQL<br>R (learning) | Statistics foundations<br>EDA (beginner)<br>Pandas (learning) | Git & GitHub<br>VS Code & PyCharm<br>Jupyter / Replit | AWS (foundational track)<br>Linux / CLI basics |
 
 > I only list skills and tools I actively use or am currently learning in depth.
 
