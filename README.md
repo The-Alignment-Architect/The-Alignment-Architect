@@ -19,7 +19,11 @@ Python • SQL • Statistics • Systems Thinking
   <em>Symbolic representation of my journey into data, systems, and intelligence.</em>
 </p>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,microsoft,zoho,python,sql,oracle,rstudios,salesforce" />
+  </a>
+</p>
 
 ## About Me
 
