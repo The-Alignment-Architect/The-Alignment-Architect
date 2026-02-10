@@ -1,5 +1,3 @@
-
-
 # 👁️ GOD OF DATA (Mid Training Montage)
 
 **BSc Data Science & AI**  
@@ -11,7 +9,7 @@ Python • SQL • Statistics • Systems Thinking
   <img 
     src="assets/God_of_data.png" 
     alt="God of Data – symbolic avatar" 
-    width="500"
+    width="420"
   >
 </p>
 
@@ -33,33 +31,50 @@ Python • SQL • Statistics • Systems Thinking
 </p>
 
 - **Languages:** Python, SQL, R (learning)  
-- **Data & Analysis:** Statistics foundations; starting to explore Pandas 
+- **Data & Analysis:** Statistics foundations; beginning Pandas-based analysis  
 - **Dev Tools:** Git & GitHub, VS Code, PyCharm, Jupyter Notebooks, Replit  
-- **Cloud & Platforms:** AWS (foundational cert track), Linux / command line  
+- **Cloud & Platforms:** AWS (foundational certification track), Linux / command line  
 
 > I only list tools I actively use or am currently learning in depth.
 
+---
 
 ## About Me
 
-- 🔭 Building an AI-aligned consultancy alongside my BSc  
-- 🌱 Studying AWS while deepening Python, SQL, and data fundamentals  
+- 🔭 Building an AI consultancy AI-Aligned.co.uk alongside my BSc  
+- 🌱 Completing 4 AWS certifications while deepening core Python, SQL, and data fundamentals  
 - 👯 Open to collaborating on meaningful, passion-driven projects  
-- 🤔 Actively refining how to balance study, work, and building in public  
+- 🤔 Actively balancing academic study, consultancy and building personal projects 
 - 💬 Happy to talk faith, life, and 20th-century history (WW2 & Vietnam)  
 - 📫 Contact: **carltonayoola@gmail.com**  
-- ⚡ Fun fact: I couldn’t bend my knee on a Sunday — five days later I won my first MMA fight
+- ⚡ Fun fact: I couldn’t bend my knee on a Sunday — five days later I won my first MMA fight  
 
+---
 
 ## 📈 Current Focus (2026)
 
-Right now I’m in my **mid-training montage** phase, working on:
+Right now I’m in my **mid-training montage** phase — deliberately building
+strong foundations before moving into advanced AI systems.
 
 - Solidifying programming fundamentals in Python  
-- Building portfolio-ready projects from my university modules  
-- Getting comfortable with Git, GitHub, and clean version control habits  
-- Strengthening my foundations in statistics and data analysis  
-- Learning AWS fundamentals so I can deploy real systems, not just notebooks
+- Turning university modules into portfolio-ready projects  
+- Developing clean Git & version control habits  
+- Strengthening statistical thinking and data analysis  
+- Learning AWS fundamentals to deploy real systems, not just notebooks  
+
+---
+
+## 🧭 Direction of Travel
+
+Over the next 12–24 months, my focus is to:
+
+- Transition from student projects to real-world AI and data applications  
+- Build and document systems that prioritise clarity, alignment, and impact  
+- Grow into an AI consultant and product builder with strong technical foundations  
+
+I’m more interested in **understanding systems deeply** than relying on tools prematurely.
+
+---
 
 ## 📡 Connect With Me
 
@@ -80,4 +95,3 @@ Right now I’m in my **mid-training montage** phase, working on:
 <p align="center">
   Or reach me directly at: <strong>carltonayoola@gmail.com</strong>
 </p>
-
