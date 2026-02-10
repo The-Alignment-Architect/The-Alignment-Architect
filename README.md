@@ -7,7 +7,17 @@ Python • SQL • Statistics • Systems Thinking
 
 > *“Alignment before Automation.”*
 
-<img src="assets/God_of_data.png" alt="God of Data – symbolic avatar" width="700">
+<p align="center">
+  <img 
+    src="assets/god-of-data.png" 
+    alt="God of Data – symbolic avatar" 
+    width="700"
+  >
+</p>
+
+<p align="center">
+  <em>Symbolic representation of my journey into data, systems, and intelligence.</em>
+</p>
 
 
 
