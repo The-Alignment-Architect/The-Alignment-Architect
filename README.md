@@ -11,7 +11,7 @@ Python • SQL • Statistics • Systems Thinking
   <img 
     src="assets/God_of_data.png" 
     alt="God of Data – symbolic avatar" 
-    width="700"
+    width="500"
   >
 </p>
 
@@ -19,23 +19,38 @@ Python • SQL • Statistics • Systems Thinking
   <em>Symbolic representation of my journey into data, systems, and intelligence.</em>
 </p>
 
+---
+
+## 🛠 Tech Stack & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,github,git,python,pycharm,vscode,mysql,r,replit," />
+    <img 
+      src="https://skillicons.dev/icons?i=python,aws,github,git,vscode,pycharm,mysql,r,replit&perline=9" 
+      alt="Tech stack icons" 
+    />
   </a>
 </p>
+
+- **Languages:** Python, SQL, R (learning)  
+- **Data & Analysis:** Statistics foundations; starting to explore Pandas 
+- **Dev Tools:** Git & GitHub, VS Code, PyCharm, Jupyter Notebooks, Replit  
+- **Cloud & Platforms:** AWS (foundational cert track), Linux / command line  
+
+> I only list tools I actively use or am currently learning in depth.
+
 
  <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
 
 ## About Me
 
-- 🔭 I’m currently building an AI-aligned consultancy alongside my degree
-- 🌱 I’m working through AWS certifications and deepening my Python & SQL  
-- 👯 I’m open to collaborating on projects you’re genuinely passionate about  
-- 🤔 I’m actively figuring out how to balance study, work, and building in public  
-- 💬 Ask me about faith, life, and 20th-century history (WW2 & Vietnam especially)  
-- 📫 Reach me at: **carltonayoola@gmail.com**  
-- ⚡ Fun fact: One Sunday I couldn’t bend my knee. Five days later I fought — and won — my first MMA fight.
+- 🔭 Building an AI-aligned consultancy alongside my BSc  
+- 🌱 Studying AWS while deepening Python, SQL, and data fundamentals  
+- 👯 Open to collaborating on meaningful, passion-driven projects  
+- 🤔 Actively refining how to balance study, work, and building in public  
+- 💬 Happy to talk faith, life, and 20th-century history (WW2 & Vietnam)  
+- 📫 Contact: **carltonayoola@gmail.com**  
+- ⚡ Fun fact: I couldn’t bend my knee on a Sunday — five days later I won my first MMA fight
 
 
 ## 📈 Current Focus (2026)
