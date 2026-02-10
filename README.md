@@ -21,9 +21,11 @@ Python • SQL • Statistics • Systems Thinking
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,microsoft,zoho,python,sql,oracle,rstudios,salesforce" />
+    <img src="https://skillicons.dev/icons?i=aws,github,git,python,pycharm,vscode,mysql,r,replit," />
   </a>
 </p>
+
+ <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
 
 ## About Me
 
