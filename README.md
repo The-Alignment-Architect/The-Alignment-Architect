@@ -1,6 +1,6 @@
 
 
-# 👁️ GOD OF DATA (MID TRAINING MONTAGE)
+# 👁️ GOD OF DATA (Mid Training Montage)
 
 **BSc Data Science & AI**  
 Python • SQL • Statistics • Systems Thinking  
