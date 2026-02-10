@@ -40,8 +40,6 @@ Python • SQL • Statistics • Systems Thinking
 > I only list tools I actively use or am currently learning in depth.
 
 
- <img src="https://skillicons.dev/icons?i=gmail,linkedin,instagram" />
-
 ## About Me
 
 - 🔭 Building an AI-aligned consultancy alongside my BSc  
@@ -61,4 +59,25 @@ Right now I’m in my **mid-training montage** phase, working on:
 - Building portfolio-ready projects from my university modules  
 - Getting comfortable with Git, GitHub, and clean version control habits  
 - Strengthening my foundations in statistics and data analysis  
-- Learning AWS fundamentals so I can deploy real systems, not just notebooks  
+- Learning AWS fundamentals so I can deploy real systems, not just notebooks
+
+## 📡 Connect With Me
+
+<p align="center">
+  <a href="mailto:carltonayoola@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/carlton-ayoola-294343134/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/carltonayoola" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  Or reach me directly at: <strong>carltonayoola@gmail.com</strong>
+</p>
+
