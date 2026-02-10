@@ -19,23 +19,51 @@ Python • SQL • Statistics • Systems Thinking
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠 Skills & Toolset
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img 
-      src="https://skillicons.dev/icons?i=python,aws,github,git,vscode,pycharm,mysql,r,replit&perline=9" 
-      alt="Tech stack icons" 
-    />
-  </a>
+### 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,r" />
 </p>
 
-- **Languages:** Python, SQL, R (learning)  
-- **Data & Analysis:** Statistics foundations; beginning Pandas-based analysis  
-- **Dev Tools:** Git & GitHub, VS Code, PyCharm, Jupyter Notebooks, Replit  
-- **Cloud & Platforms:** AWS (foundational certification track), Linux / command line  
+- Python (primary)
+- SQL
+- R (learning)
 
-> I only list tools I actively use or am currently learning in depth.
+---
+
+### 📊 Data & Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Statistics & probability foundations  
+- Exploratory data analysis (beginner)  
+- Starting Pandas-based workflows  
+
+---
+
+### 🛠 Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,replit" />
+</p>
+
+- Git & GitHub  
+- VS Code, PyCharm  
+- Jupyter Notebooks  
+- Replit  
+
+---
+
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
+</p>
+
+- AWS (foundational certification track)  
+- Linux / command line basics  
+
+> I only list skills and tools I actively use or am currently learning in depth.
 
 ---
 
