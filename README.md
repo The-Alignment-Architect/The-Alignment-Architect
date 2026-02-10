@@ -7,6 +7,7 @@ Python • SQL • Statistics • Systems Thinking
 
 > *“Alignment before Automation.”*
 
+<img src="assets/God_of_data.png" alt="God of Data – symbolic avatar" width="350">
 
 
 
