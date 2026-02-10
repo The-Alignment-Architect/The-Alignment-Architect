@@ -9,7 +9,7 @@ Python • SQL • Statistics • Systems Thinking
 
 <p align="center">
   <img 
-    src="assets/god-of-data.png" 
+    src="assets/God_of_data.png" 
     alt="God of Data – symbolic avatar" 
     width="700"
   >
